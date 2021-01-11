@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EA1-13BF
+
+ Directory of C:\Users\pk315\Documents\My_Project
+
+01/11/2021  03:13 PM    <DIR>          .
+01/11/2021  03:13 PM    <DIR>          ..
+01/11/2021  02:04 PM    <DIR>          .git
+01/11/2021  03:13 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  402,519,650,304 bytes free
